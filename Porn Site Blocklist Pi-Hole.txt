@@ -1,0 +1,21 @@
+# Porn Site Blocklist
+
+0.0.0.0 (\.|^)brazzers\.com$
+0.0.0.0 (\.|^)eporner\.com$
+0.0.0.0 (\.|^)fuq\.com$
+0.0.0.0 (\.|^)motherless\.com$
+0.0.0.0 (\.|^)mylf\.com$
+0.0.0.0 (\.|^)naiadsystems\.com$
+0.0.0.0 (\.|^)omegle\.com$
+0.0.0.0 (\.|^)phncdn\.com$
+0.0.0.0 (\.|^)porn\.com$
+0.0.0.0 (\.|^)pornhub\.com$
+0.0.0.0 (\.|^)shagle\.com$
+0.0.0.0 (\.|^)spankbang\.com$
+0.0.0.0 (\.|^)stripchat\.com$
+0.0.0.0 (\.|^)xhamster\.com$
+0.0.0.0 (\.|^)xhamsterlive\.com$
+0.0.0.0 (\.|^)xnxx\.com$
+0.0.0.0 (\.|^)xvideos\.com$
+0.0.0.0 (\.|^)youporn\.com$
+0.0.0.0 (\.|^)youjizz\.com$
