@@ -1,0 +1,33 @@
+# [Adobe Licensing and Misc.]:
+
+0.0.0.0 (\.|^)adobesc\.com$
+0.0.0.0 adminconsole.adobe.com
+0.0.0.0 adobeid-na1.services.adobe.com
+0.0.0.0 adobelogin.prod.ims.adobejanus.com
+0.0.0.0 ams.adobe.com
+0.0.0.0 api-cna01.adobe-services.com
+0.0.0.0 auth.services.adobe.com
+0.0.0.0 awcm177.awmdm.com
+0.0.0.0 federatedid-na1.services.adobe.com
+0.0.0.0 genuine.adobe.com
+0.0.0.0 geo2.adobe.com
+0.0.0.0 gocart-web-prod-*.elb.amazonaws.com
+0.0.0.0 ims-na1.adobelogin.com
+0.0.0.0 ims-prod06.adobelogin.com
+0.0.0.0 ims-prod07.adobelogin.com
+0.0.0.0 lcs-cops.adobe.io
+0.0.0.0 lcs-entitlement.adobe.io
+0.0.0.0 lcs-entitlement.adobe.io/v1/trial
+0.0.0.0 lcs-entitlement.adobe.io/v1/user
+0.0.0.0 lcs-robs.adobe.io
+0.0.0.0 lcs-ulecs.adobe.io
+0.0.0.0 licensing.adobe.com
+0.0.0.0 na1e-acc.services.adobe.com
+0.0.0.0 na1e.services.adobe.com
+0.0.0.0 na1r.services.adobe.com
+0.0.0.0 oobe.adobe.com
+0.0.0.0 prod.acp.adobeoobe.com
+0.0.0.0 prod.adobegenuine.com
+0.0.0.0 services.prod.ims.adobejanus.com
+0.0.0.0 supportanyware.adobe.io
+0.0.0.0 www-prod.adobesunbreak.com
