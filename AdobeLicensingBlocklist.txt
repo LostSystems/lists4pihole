@@ -1,6 +1,6 @@
 # [Adobe Licensing and Misc.]:
 
-0.0.0.0 adobesc.com$
+0.0.0.0 adobesc.com
 0.0.0.0 adminconsole.adobe.com
 0.0.0.0 adobeid-na1.services.adobe.com
 0.0.0.0 adobelogin.prod.ims.adobejanus.com
